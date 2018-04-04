@@ -1,0 +1,14 @@
+﻿  CountingAlgorithm.cpp
+  IconCross.cpp
+  IconNought.cpp
+  IconVoid.cpp
+  main.cpp
+main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program.cpp
+  Tab.cpp
+  TestAlgorithm.cpp
+  Generating code
+  All 398 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Noughts-n-Crosses.vcxproj -> E:\Projects\Noughts-n-Crosses\Release\Noughts-n-Crosses.exe
+  Noughts-n-Crosses.vcxproj -> E:\Projects\Noughts-n-Crosses\Release\Noughts-n-Crosses.pdb (Full PDB)
